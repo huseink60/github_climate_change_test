@@ -7,6 +7,7 @@ nav_order: 1
 # Climate Claims: Finding the Facts in a "Post-Truth" World 
 ### Khalil Husein, February 14, 2021, ISCI 3A12
 
+
 ##### Article List
 1. *The Economics of Wind Power in Future - Blindness and Insight*
 * [Offshore Wind-High Risk | Friends of Science Calgary](https://blog.friendsofscience.org/2020/09/30/the-economics-of-wind-power-in-future-blindness-and-insight/) 
@@ -20,4 +21,13 @@ nav_order: 1
 * [Aphid Pest | CO2 Science](http://www.co2science.org/articles/V24/feb/a3.php)
 * This article claims that elevated CO2 levels can be beneficial in wheat growth and is helpful in managing pests such as the bird cherry-oat aphid by impeding their development and reducing their fertility.
 * This article cites a peer-reviewed scientific article and acts as a reminder of the complicated effects of climate change, including some perceived positive effects.  
- 4. 
+ 4. *Shafting the Poor*
+ * [Shafting The Poor | Watts Up With That?](https://wattsupwiththat.com/2021/02/05/shafting-the-poor/)
+ * This article claims that measures in Europe that raise the energy prices have disproportionally harmed the lower-class and contributed to energy poverty, with no significant reduction in CO<sub>2</sub> emissions.
+ * The article uses quantitative information and effective visuals to emphasize its point, and I personally have wondered about the financial/social cost of climate change measures now compared to future benefits.
+ 5. *Coral Reefs are Dying Because of Climate Change*
+ * [Coral Reefs are Dying Because of Climate Change. | Everything Climate](https://everythingclimate.org/coral-reefs-are-dying-because-of-climate-change/)
+ * This article claims that coral is resilient to temperature and pH changes and are not threatened by current changes in sea level and acidification.
+* The article uniquely presents arguments against its cause, and then seeks to refute these arguments with its own claims, providing a stronger, if not reliable, case.
+
+##### Article Analysis
